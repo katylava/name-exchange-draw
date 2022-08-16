@@ -1,3 +1,5 @@
+#! /usr/bin/env python
+
 from copy import deepcopy
 from random import choice
 from time import sleep
