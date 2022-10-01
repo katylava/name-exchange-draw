@@ -1,0 +1,23 @@
+{
+  "name": "namedraw",
+  "version": "1.0.0",
+  "description": "Given a list of names, randomly select one name for another that is not a direct exchange or in the list of exclusions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/katylava/name-exchange-draw.git"
+  },
+  "keywords": [
+    "christmas",
+    "gift-exchange"
+  ],
+  "author": "katy lavallee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katylava/name-exchange-draw/issues"
+  },
+  "homepage": "https://github.com/katylava/name-exchange-draw#readme"
+}
