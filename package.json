@@ -15,7 +15,6 @@
   "bugs": {
     "url": "https://github.com/katylava/name-exchange-draw/issues"
   },
-  "homepage": "https://github.com/katylava/name-exchange-draw#readme",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
