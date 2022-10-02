@@ -16,6 +16,7 @@
     "url": "https://github.com/katylava/name-exchange-draw/issues"
   },
   "private": true,
+  "engines": { "node": "16.x" },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
